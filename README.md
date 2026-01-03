@@ -1,2 +1,2 @@
-# microDT-sandbox
+# microCT-sandbox
 Testing microCT data manipulation methods
