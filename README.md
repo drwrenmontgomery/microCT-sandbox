@@ -1,2 +1,2 @@
 # microDT-sandbox
-Testing microT data manitpulation methods
+Testing microCT data manipulation methods
